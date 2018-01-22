@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liangshengwen/kgraph/kgraph_hamming/kgraph_test/simulator_kgraph/sim_kgraph.c
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+inttypes.h
+-
+

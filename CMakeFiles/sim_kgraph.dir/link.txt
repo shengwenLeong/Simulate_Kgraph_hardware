@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/sim_kgraph.dir/sim_kgraph.c.o  -o sim_kgraph -rdynamic 
